@@ -1,6 +1,7 @@
 # Python_Folder 
 
 :smile:
+:bowtie:
 
 A Folder and Repo for lots of Python training programs and learning Streamlit apps😀
 
